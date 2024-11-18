@@ -1,0 +1,71 @@
+.div
+{
+    height:70px;
+     background: #4c7766;
+      width: 100%;
+       top:0;
+        display:flex; 
+        gap:70px;
+        position: fixed;
+        z-index: 1;
+        
+}
+.div li
+{
+    color:white;
+        font-size: 20px;
+        list-style-type: none;
+        padding-top: 25px;
+        font-family:Arial;
+        padding-bottom: 5px;
+        padding-left: 20px;
+        padding-right: 20px;
+        
+        
+}
+.div li:hover
+{
+    background-color: #436657;
+    
+}
+.div li:active
+{
+    background-color: #385347;
+}
+.div button:hover{
+background-color: #436657;
+}
+.div link
+{
+text-decoration: none;
+color:white;
+}
+.div button{
+    background: transparent;
+    border: none;
+    outline:none;
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    padding-top: 10px;
+    font-weight: 100;
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 50px;
+    float: right;
+
+    
+    
+}
+.div img{
+    margin-right: 300px;
+    margin-left: -15px;
+}
+
+.s
+{
+    height: 80px;
+    width:150px;
+background: #4c7766;
+}
